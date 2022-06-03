@@ -3,10 +3,10 @@
 express backend framework  
 multer file upload  
 mongoose database npm module  
-gTTS google text to speech
-unique-filename for generating file names
-videoshow Simple utility for node.js to create straightforward video slideshows based on images using ffmpeg
-cookie-parser for token authentication 
+gTTS google text to speech  
+unique-filename for generating file names  
+videoshow Simple utility for node.js to create straightforward video slideshows based on images using ffmpeg  
+cookie-parser for token authentication  
 
 ## API Endpoints
 /create_new_storage     :  to store token in cookie  to identify uploaded file  
