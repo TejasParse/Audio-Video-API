@@ -1,4 +1,4 @@
-## Major libraries used - 
+## Major libraries used 
 
 express backend framework  
 multer file upload  
