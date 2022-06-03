@@ -9,14 +9,14 @@ videoshow Simple utility for node.js to create straightforward video slideshows 
 cookie-parser for token authentication 
 
 ## API Endpoints
-/create_new_storage     :  to store token in cookie  to identify uploaded file
-/upload_file            : to upload file 
-/my_upload_file         : get list of uploaded file 
+/create_new_storage     :  to store token in cookie  to identify uploaded file  
+/upload_file            : to upload file  
+/my_upload_file         : get list of uploaded file  
 /text_file_to_audio     : to convert text to audio  
-/merge_image_and_audio  : to merge image + audio to video 
-/merge_video_and_audio  : to merge video  + audio to video 
-/merge_all_video        : to merge list of video 
-/download_file          : to download any file from server
+/merge_image_and_audio  : to merge image + audio to video  
+/merge_video_and_audio  : to merge video  + audio to video  
+/merge_all_video        : to merge list of video  
+/download_file          : to download any file from server  
 
 The demo of API can be found here
 https://youtu.be/zpVoNDXsQko
