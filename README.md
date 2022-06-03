@@ -10,7 +10,7 @@ cookie-parser for token authentication
 
 ## API Endpoints
 <pre>
-/create_new_storage     :  to store token in cookie  to identify uploaded file  
+/create_new_storage     : to store token in cookie  to identify uploaded file  
 /upload_file            : to upload file  
 /my_upload_file         : get list of uploaded file  
 /text_file_to_audio     : to convert text to audio  
