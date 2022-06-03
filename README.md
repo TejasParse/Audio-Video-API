@@ -8,7 +8,7 @@ unique-filename for generating file names
 videoshow Simple utility for node.js to create straightforward video slideshows based on images using ffmpeg
 cookie-parser for token authentication 
 
-##API Endpoints
+## API Endpoints
 /create_new_storage     :  to store token in cookie  to identify uploaded file
 /upload_file            : to upload file 
 /my_upload_file         : get list of uploaded file 
